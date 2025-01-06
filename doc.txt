@@ -1,0 +1,1 @@
+python3 dms_demo.py --model_path=/home/root/.cache/gopoint
